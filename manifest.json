@@ -1,15 +1,15 @@
 {
     "name": "LegionGaming_Admin",
     "description": "Admin modpack for Legion Gaming private server.",
-    "version_number": "5.1.0",
+    "version_number": "5.1.1",
     "website_url": "https://github.com/legion-gaming/valheim-modpack-admin",
     "dependencies": [
-        "Legion-LegionGaming-5.1.0",
+        "Legion-LegionGaming-5.1.1",
         "ComfyMods-Gizmo-1.5.1",
-        "JereKuusela-Upgrade_World-1.30.0",
+        "JereKuusela-Upgrade_World-1.33.0",
         "JereKuusela-World_Edit_Commands-1.23.0",
         "JereKuusela-Infinity_Hammer-1.31.0",
-        "MathiasDecrock-PlanBuild-0.13.1",
-        "MSchmoecker-VNEI-0.8.1"
+        "MathiasDecrock-PlanBuild-0.13.2",
+        "MSchmoecker-VNEI-0.8.3"
     ]
 }
